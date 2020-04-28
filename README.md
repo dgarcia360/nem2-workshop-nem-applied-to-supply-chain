@@ -1,3 +1,9 @@
+# DEPRECATION NOTICE
+
+The workshop is no longer maintained in this repository. 
+Part of the contents might be moved to [Symbol Academy](https://blog.nem.io/nem-foundation-catapult-roadmap-and-vision/). 
+To continue using the workshop or advance its development, please create a custom fork.
+
 # nem2-workshop-nem-applied-to-supply-chain
 
 <!-- 
