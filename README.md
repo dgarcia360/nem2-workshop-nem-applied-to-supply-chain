@@ -35,37 +35,37 @@ Before starting the workshop, install the following packages:
 
 ### Lab 1 - Running Catapult and project files
 
-1\. [Introduction](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/introduction/)
+1\. [Introduction](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/introduction/)
 
-2\. [Prepare your workstation](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/prepare-your-workstation/)
+2\. [Prepare your workstation](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/prepare-your-workstation/)
 
 ### Lab 2 - Applying the NEM development cycle
 
-3\. [Use case: Blockchain applied to supply chain](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/use-case//)
+3\. [Use case: Blockchain applied to supply chain](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/use-case//)
 
-4\. [Scope definition](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/scope-definition//)
+4\. [Scope definition](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/scope-definition//)
 
-5\. [Authorization modeling](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/Authorization-modeling/)
+5\. [Authorization modeling](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/Authorization-modeling/)
 
-6\. [Data modeling](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/data-modeling/)
+6\. [Data modeling](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/data-modeling/)
 
-7\. [One possible solution](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/solution/)
+7\. [One possible solution](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/solution/)
 
 ### Lab 3 - Implementing the use case
 
-8\. [Setup: Warehouse operator and safety seal](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/setup/)
+8\. [Setup: Warehouse operator and safety seal](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/setup/)
 
-9\. [Registering products](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/registering-products/)
+9\. [Registering products](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/registering-products/)
 
-10\. [Sending the safety seal](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/sending-the-safety-seal/)
+10\. [Sending the safety seal](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/sending-the-safety-seal/)
 
 ### Lab 4 - Extending the use case
 
-11\. [Adding a digital sensor](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/adding-a-digital-sensor/)
+11\. [Adding a digital sensor](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/adding-a-digital-sensor/)
 
-12\. [Adding another operator](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/adding-another-operator/)
+12\. [Adding another operator](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/adding-another-operator/)
 
-13\. [Future work](https://nemtech.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/future-work-multilevel-multisig-accounts/)
+13\. [Future work](https://nemfoundation.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/future-work-multilevel-multisig-accounts/)
 
 ## Contributing
 
